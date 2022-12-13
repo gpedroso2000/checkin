@@ -1,0 +1,25 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.width{
+  color: white;
+}
+
+#conteudo{
+  padding: 0.5rem 0.7rem 1rem 0.5rem;
+  max-width: 70rem;
+  margin: auto;
+}
+
+.obrigatorio{
+  border: 0.5px solid #dc3545;
+  box-shadow:0px 0px 0px 4px rgba(252, 123, 123, 0.76);
+}
+
+.error{
+  color: rgba(255, 0, 0, 0.76);
+  font-size: 0.7rem;
+}
